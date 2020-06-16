@@ -139,7 +139,7 @@ MonoBehaviour:
   m_MinSize: {x: 911, y: 392}
   m_MaxSize: {x: 22006, y: 14042}
   vertical: 0
-  controlID: 103
+  controlID: 35
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -164,7 +164,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 342}
   m_MaxSize: {x: 8003, y: 8042}
   vertical: 1
-  controlID: 104
+  controlID: 36
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -189,7 +189,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
-  controlID: 105
+  controlID: 37
 --- !u!114 &9
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -237,8 +237,8 @@ MonoBehaviour:
     y: 0
     width: 765
     height: 1140
-  m_MinSize: {x: 202, y: 221}
-  m_MaxSize: {x: 4002, y: 4021}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 20}
   m_Panes:
   - {fileID: 20}
@@ -294,7 +294,7 @@ MonoBehaviour:
   m_MinSize: {x: 232, y: 392}
   m_MaxSize: {x: 10002, y: 14042}
   vertical: 1
-  controlID: 166
+  controlID: 62
 --- !u!114 &13
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -314,8 +314,8 @@ MonoBehaviour:
     y: 0
     width: 461
     height: 519
-  m_MinSize: {x: 102, y: 121}
-  m_MaxSize: {x: 4002, y: 4021}
+  m_MinSize: {x: 100, y: 100}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 22}
   m_Panes:
   - {fileID: 22}
@@ -426,7 +426,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: d4630000
     m_LastClickedID: 25556
-    m_ExpandedIDs: 000000009a330000
+    m_ExpandedIDs: 0000000098330000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -454,7 +454,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000009a330000
+    m_ExpandedIDs: 0000000098330000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -862,9 +862,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: da2b0000
-      m_LastClickedID: 0
-      m_ExpandedIDs: 5efbffff
+      m_SelectedIDs: b4faffff
+      m_LastClickedID: -1356
+      m_ExpandedIDs: c2faffffd0faffff6afbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -927,20 +927,20 @@ MonoBehaviour:
     m_SkipHidden: 1
     m_SearchArea: 1
     m_Folders:
-    - Assets/_Scripts
+    - Assets/Prefabs
   m_ViewMode: 1
   m_StartGridSize: 16
   m_LastFolders:
-  - Assets/_Scripts
+  - Assets/Prefabs
   m_LastFoldersGridSize: 16
   m_LastProjectPath: D:\Test\MissileCommander\MissileCommanderProject
   m_LockTracker:
     m_IsLocked: 1
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 9e330000
-    m_LastClickedID: 13214
-    m_ExpandedIDs: 000000009a33000000ca9a3b
+    m_SelectedIDs: a2330000
+    m_LastClickedID: 13218
+    m_ExpandedIDs: 000000009833000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -968,7 +968,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000009a330000
+    m_ExpandedIDs: 0000000098330000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 

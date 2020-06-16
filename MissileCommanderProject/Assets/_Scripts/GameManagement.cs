@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class GameManager : MonoBehaviour
+public class GameManagement : MonoBehaviour
 {
-    //[SerializeField]
+    [SerializeField]
     BulletLauncher launcherPrefab;
     BulletLauncher launcher;
 
@@ -12,7 +12,8 @@ public class GameManager : MonoBehaviour
     void Start()
     {
         launcher = Instantiate(launcherPrefab);
-        launcher.SetGameController(new MouseGameController());
+        //launcher.SetGameController(new MouseGameController());
+        launcher.SetGameController(new KeyGameController());
     }
 
     // Update is called once per frame
